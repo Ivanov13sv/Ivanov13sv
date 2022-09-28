@@ -5,6 +5,9 @@ I'm a self-taught beginner web developer from Moscow
 > telegram - <a href="https://t.me/onedayiwillbecomehokage" target="_blank">link</a>
 
 > email - ivanov13sv@gmail.com
+
+> CV - <a href="https://docs.google.com/document/d/1PxQ1qlAOguMauC8lSs9Z4xYB1UcqUnnbmCj1CkR9vGw/edit?usp=sharing" target="_blank">link</a>
+
 <hr />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanov13sv&layout=compact"/>
 
